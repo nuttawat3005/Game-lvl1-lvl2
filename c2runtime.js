@@ -19491,7 +19491,7 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.PickRandom,
 	cr.plugins_.Sprite.prototype.acts.SetPosToObject,
 	cr.plugins_.Sprite.prototype.acts.SetVisible,
-	cr.plugins_.Sprite.prototype.cnds.IsOverlapping,
+	cr.plugins_.Sprite.prototype.cnds.IsOverlappingOffset,
 	cr.system_object.prototype.cnds.CompareVar,
 	cr.system_object.prototype.acts.GoToLayout,
 	cr.plugins_.Keyboard.prototype.cnds.OnKey,
